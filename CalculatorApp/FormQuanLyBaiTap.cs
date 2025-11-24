@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-namespace CalculatorApp
+namespace CalculatorApp //hello world
 {
     public partial class FormQuanLyBaiTap : DevExpress.XtraBars.Ribbon.RibbonForm
     {
